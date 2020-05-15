@@ -1,0 +1,30 @@
+
+        {
+            "title": "Amazon",
+            "image": "https://raw.githubusercontent.com/123twister/treet/master/amazon.png",
+            "coupons": ["AMAZON40", "TREET40", "QWERTY10", "MEW30"]
+        },
+        
+        {
+            "title": "Flipkart",
+            "image": "https://raw.githubusercontent.com/123twister/treet/master/flipkart.jpg",
+            "coupons": ["FLIP40", "TREET40", "QWERTY10", "MEW30"]
+        },
+        
+        {
+            "title": "eBay",
+            "image": "https://raw.githubusercontent.com/123twister/treet/master/ebay.png",
+            "coupons": ["EBAY40", "TREET40", "QWERTY10", "MEW30"]
+        },
+        
+        {
+            "title": "Udemy",
+            "image": "https://raw.githubusercontent.com/123twister/treet/master/udemy.png",
+            "coupons": ["UDEMY40", "TREET40", "QWERTY10", "MEW30"]
+        },
+        
+        {
+            "title": "Puma",
+            "image": "https://raw.githubusercontent.com/123twister/treet/master/puma.png",
+            "coupons": ["PUMA40", "TREET40", "QWERTY10", "MEW30"]
+        }

@@ -1,4 +1,4 @@
-
+[
         {
             "title": "Amazon",
             "image": "https://raw.githubusercontent.com/123twister/treet/master/amazon.png",
@@ -28,3 +28,4 @@
             "image": "https://raw.githubusercontent.com/123twister/treet/master/puma.png",
             "coupons": ["PUMA40", "TREET40", "QWERTY10", "MEW30"]
         }
+]
